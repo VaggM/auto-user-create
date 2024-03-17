@@ -1,8 +1,8 @@
-## Automated user creation from a spreadsheet
+## Automated user creation from a spreadsheet for Mastodon
 
 Create users from users.xlsx which has columns for First Name, Username, Password (not finals).
 
-Mails will be created through automatically with @trustfirst.mobi and passwords will be automatically generated.
+Mails will be created through automatically with a specific @ tag and passwords will be automatically generated.
 
 ## Requirements
 
